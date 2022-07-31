@@ -1,4 +1,4 @@
-# About_me
+# theotds
 Welcome to my profile, im a student from Politechnika Łódzka.
 I'll enjoy to share with you guys my projects idea.
 
