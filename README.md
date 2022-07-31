@@ -12,5 +12,5 @@ have made my first bigger project in python in which i fell in love too.
 So shortly i will focus a lot in making sites in html/css/JS and programming in C/Python
 
 And that's all about me.
-I would be grateful to get some feedback, if you would have some better solution, or improvements to my codes.
+Feel free to give some feedback, if you would have some better solution, or improvements to my codes.
 Thank you for your attention
