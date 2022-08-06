@@ -1,7 +1,7 @@
 ### Hi, I'm Theo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<hr/>
 
 ### I am a self learning student of Computer Science in Politechnika Łódzka.
+
 - 🌱 I’m currently learning JavaScript, Data Science basics.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
 - 🥅 Goals: Become a Fullstack developer or a Data Scientist <br />
@@ -10,6 +10,8 @@
 <hr/>
 
 ### ⚙ Languages and Tools:
+
+<br />
 <div display="inline-block">
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />
@@ -25,9 +27,13 @@
 <img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />
 </div>
 <br />
+<br />
+<br />
+<br />
 <hr/>
 
 ### 📋 Language Card.
+<br />
 <img align="center" alt="theotds's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotds&&layout=compact&&theme=tokyonight" />
 <br />
 <hr/>
