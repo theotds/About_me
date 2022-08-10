@@ -2,7 +2,7 @@
 
 ### I am a self learning student of Computer Science in University of Technology in Łódź.
 
-- 🌱 I’m currently learning JavaScript, Data Science basics.<br />
+- 🌱 I’m currently learning JavaScript, and upgrading my minesweeper project with pygame.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
 - 🥅 Goals: Become a Fullstack developer or a Data Scientist <br />
 - ⚡ I like playing/listening music and playing games.
