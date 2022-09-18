@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning JavaScript, and upgrading my minesweeper project with pygame.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
-- 🥅 Goals: Become a Fullstack developer <br />
+- 🥅 Goals: Become a Fullstack developer or Front-end developer <br />
 - ⚡ I like playing/listening music and playing games.
 <br/>
 <hr/>
