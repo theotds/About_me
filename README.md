@@ -2,7 +2,7 @@
 
 ### I am a self learning student of Computer Science in University of Technology in Łódź.
 
-- 🌱 I’m currently learning JavaScript, and upgrading my minesweeper project with pygame.<br />
+- 🌱 I’m currently learning writing a discord bot and 2nd atempt of making my website.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
 - 🥅 Goals: Become a Fullstack developer or Front-end developer <br />
 - ⚡ I like playing/listening music and playing games.
@@ -54,10 +54,10 @@ I enjoyed making sites and programming since one of my teachers showed me how to
 
 I started with making sites for a year in html and css (after 3 years of pause i restarted learning making sites, more difficult and now i started to learn JavaScript).
 My first programming language i learned was C++ for 3 years (but just basics of programming and about class/objective programming).
-Now i paused programming in C++, cause of my studies where we are learning to write in C what i enjoy too. At the first semester we had Python, and as you will see i 
+Now on my studies we are learning to write in C and C++ At the first semester we had Python, and as you will see i 
 have made my first bigger project in python in which i fell in love too.
 
-So shortly i will focus a lot in making sites in html/css/JS and programming in C/Python
+So shortly i will focus a lot in making sites in html/css/JS and programming in C/C++/Python
 
 And that's all about me.
 Feel free to give some feedback, if you would have some better solution, or improvements to my codes.
