@@ -14,18 +14,18 @@
 
 <br />
 <div display="inline-block">
-<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />
-<img align="left" alt="C" width="33px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" />
-<img align="left" alt="C++" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="center" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />
+<img align="center" alt="C" width="33px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" />
+<img align="center" alt="C++" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 </div>
 <br/>
 <br/>
 <div display="inline-block">
-<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />
-<img align="left" alt="Clion" width="33px" src="https://i.imgur.com/tqRt9jn.png" />
-<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />
+<img align="center" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />
+<img align="center" alt="Clion" width="33px" src="https://i.imgur.com/tqRt9jn.png" />
+<img align="center" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />
 </div>
 <br />
 <br />
