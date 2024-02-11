@@ -44,7 +44,7 @@
 <img src="https://media4.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif?cid=ecf05e47yxavhylilelvxc9iy322cqn8zriiirbfo7lvuiww&rid=giphy.gif&ct=s" width="25px"> French - national<br />
 <img src="https://media0.giphy.com/media/ensKDxuUwgk6gjUyVy/giphy.gif?cid=ecf05e47jpt2flbvnxfa6gvckvu0ja9rzjl4ot5nf74leum0&rid=giphy.gif&ct=g" width="25px"> Polish - national<br />
 <img src="https://media1.giphy.com/media/nXQZ2BQ2VtbZC/giphy.gif?cid=ecf05e470dhf23xl9bb2uk4ath9v5lpr5scnbh082084ck8w&rid=giphy.gif&ct=g" width="25px"> English - B2-B2+<br />
-<img src="https://media0.giphy.com/media/dASkr4CGxMBYk/200.webp?cid=ecf05e47ae5vwnljitk8djnweoydrv0szdm5ej34dpmycifw&rid=200.webp&ct=g" width="25px"> Portuguese - I can understand, but a bit my level of talking is a bit low<br />
+<img src="https://media0.giphy.com/media/dASkr4CGxMBYk/200.webp?cid=ecf05e47ae5vwnljitk8djnweoydrv0szdm5ej34dpmycifw&rid=200.webp&ct=g" width="25px"> Portuguese - I can understand, but my level of talking is a bit low<br />
 <img src="https://media1.giphy.com/media/VN7qpUiqxl6UHGD1RB/giphy.gif?cid=ecf05e47g6970z88fd5xip1o3q3pxyf8mgp7l3v7u6ied3x9&rid=giphy.gif&ct=g" width="25px"> German - i used to learn for 7 years, but after 4 years of pause i forgot most of it.<br />
 <br />
 <hr/>
