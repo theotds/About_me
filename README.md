@@ -2,9 +2,9 @@
 
 ### I am a self learning student of Computer Science in University of Technology in Łódź.
 
-- 🌱 I’m currently learning writing a discord bot and 2nd atempt of making my website.<br />
+- 🌱 I’m currently studying and making a project about reservation in restaurants.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
-- 🥅 Goals: Become a Fullstack developer or Front-end developer <br />
+- 🥅 Goals: Become a software Engineer, software developer or Front-end developer <br />
 - ⚡ I like playing/listening music and playing games.
 <br/>
 <hr/>
