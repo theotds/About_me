@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi, I'm Theo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ### I am a self learning student of Computer Science in University of Technology in Łódź.
@@ -62,3 +63,4 @@ So shortly i will focus a lot in making sites in html/css/JS and programming in 
 And that's all about me.
 Feel free to give some feedback, if you would have some better solution, or improvements to my codes.
 Thank you for your attention
+</div>
