@@ -1,5 +1,5 @@
 <div align="center">
-### Hi, I'm Theo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+Hi, I'm Theo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ### I am a self learning student of Computer Science in University of Technology in Łódź.
 
