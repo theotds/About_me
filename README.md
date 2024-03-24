@@ -25,7 +25,7 @@ Hi, I'm Theo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 <img align="center" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />
 <img align="center" alt="Clion" width="33px" src="https://i.imgur.com/tqRt9jn.png" />
 <img align="center" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="Kotlin" width="33px" src="//i.imgur.com/AalHacyl.png" />
+<img align="center" alt="Kotlin" width="33px" src="https://i.imgur.com/AalHacyl.png" />
 </div>
 <br />
 <br />
