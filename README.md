@@ -6,7 +6,7 @@ Hi, I'm Theo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 - 🌱 I’m currently studying and making a project about reservation in restaurants.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
 - 🥅 Goals: Become a software Engineer, software developer or Front-end developer <br />
-- ⚡ I like playing/listening music and playing games.
+- ⚡ I like playing/listening music
 <br/>
 <hr/>
 
